@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\bin\Debug\net6.0\manageComputer.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\bin\Debug\net6.0\manageComputer.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\bin\Debug\net6.0\manageComputer.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\bin\Debug\net6.0\manageComputer.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\bin\Debug\net6.0\manageComputer.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\refint\manageComputer.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\manageComputer.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\manageComputer\manageComputer\obj\Debug\net6.0\ref\manageComputer.dll

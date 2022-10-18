@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\bin\Debug\net6.0\relationClass.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\bin\Debug\net6.0\relationClass.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\bin\Debug\net6.0\relationClass.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\bin\Debug\net6.0\relationClass.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\bin\Debug\net6.0\relationClass.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\refint\relationClass.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\relationClass.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\relationClass\relationClass\obj\Debug\net6.0\ref\relationClass.dll

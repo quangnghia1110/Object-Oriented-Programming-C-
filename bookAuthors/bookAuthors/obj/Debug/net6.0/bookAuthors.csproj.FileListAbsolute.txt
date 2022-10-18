@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\bin\Debug\net6.0\bookAuthors.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\bin\Debug\net6.0\bookAuthors.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\bin\Debug\net6.0\bookAuthors.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\bin\Debug\net6.0\bookAuthors.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\bin\Debug\net6.0\bookAuthors.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\refint\bookAuthors.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\bookAuthors.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\bookAuthors\bookAuthors\obj\Debug\net6.0\ref\bookAuthors.dll

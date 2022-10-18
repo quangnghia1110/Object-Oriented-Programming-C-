@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\bin\Debug\net6.0\test.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\bin\Debug\net6.0\test.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\bin\Debug\net6.0\test.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\bin\Debug\net6.0\test.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\refint\test.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\test\test\obj\Debug\net6.0\ref\test.dll

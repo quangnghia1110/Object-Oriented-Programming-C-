@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\bin\Debug\net6.0\InheritancePoint.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\bin\Debug\net6.0\InheritancePoint.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\bin\Debug\net6.0\InheritancePoint.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\bin\Debug\net6.0\InheritancePoint.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\bin\Debug\net6.0\InheritancePoint.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\refint\InheritancePoint.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\InheritancePoint.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritancePoint\InheritancePoint\obj\Debug\net6.0\ref\InheritancePoint.dll

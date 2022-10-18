@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\bin\Debug\net6.0\InheritanceMoneyBill.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\bin\Debug\net6.0\InheritanceMoneyBill.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\bin\Debug\net6.0\InheritanceMoneyBill.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\bin\Debug\net6.0\InheritanceMoneyBill.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\bin\Debug\net6.0\InheritanceMoneyBill.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\refint\InheritanceMoneyBill.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\InheritanceMoneyBill.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceMoneyBill\InheritanceMoneyBill\obj\Debug\net6.0\ref\InheritanceMoneyBill.dll

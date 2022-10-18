@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\bin\Debug\net6.0\InheritanceShape.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\bin\Debug\net6.0\InheritanceShape.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\bin\Debug\net6.0\InheritanceShape.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\bin\Debug\net6.0\InheritanceShape.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\bin\Debug\net6.0\InheritanceShape.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\refint\InheritanceShape.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\InheritanceShape.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceShape\InheritanceShape\obj\Debug\net6.0\ref\InheritanceShape.dll

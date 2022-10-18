@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\bin\Debug\net6.0\InheritanceCircle.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\bin\Debug\net6.0\InheritanceCircle.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\bin\Debug\net6.0\InheritanceCircle.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\bin\Debug\net6.0\InheritanceCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\bin\Debug\net6.0\InheritanceCircle.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\refint\InheritanceCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\InheritanceCircle.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\InheritanceCircle\InheritanceCircle\obj\Debug\net6.0\ref\InheritanceCircle.dll

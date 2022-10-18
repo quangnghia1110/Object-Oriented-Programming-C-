@@ -1,0 +1,15 @@
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\bin\Debug\net6.0\myCircle.exe
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\bin\Debug\net6.0\myCircle.deps.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\bin\Debug\net6.0\myCircle.runtimeconfig.json
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\bin\Debug\net6.0\myCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\bin\Debug\net6.0\myCircle.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.csproj.AssemblyReference.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.AssemblyInfoInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.AssemblyInfo.cs
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.csproj.CoreCompileInputs.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\refint\myCircle.dll
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.pdb
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\myCircle.genruntimeconfig.cache
+D:\HCMUTE-K21\k21-laptrinhhuongdoituong\OOP\myCircle\myCircle\obj\Debug\net6.0\ref\myCircle.dll
